@@ -11,3 +11,9 @@ Análise de condicionamento físico e esportes: feedback em tempo real sobre pos
 Interação Homem-Computador: Aprimoramento de aplicativos interativos com rastreamento preciso de corpo e mãos.
 Reabilitação e Terapia: Monitoramento e orientação para os pacientes durante os exercícios de fisioterapia.
 Realidade Virtual: Aprimoramento da imersão e a interatividade em aplicativos de Realidade Aumentada rastreando os movimentos do usuário com precisão.
+
+https://github.com/WalterJonas/Rastreamento-de-pose-e-maos-utilizando-a-biblioteca-MediaPipe/assets/74218624/1343ddeb-9c17-43ae-8124-a4adc7a7801a
+
+
+
+https://github.com/WalterJonas/Rastreamento-de-pose-e-maos-utilizando-a-biblioteca-MediaPipe/assets/74218624/b75f0ea0-e7a5-48b8-a2d8-58c73976f953
